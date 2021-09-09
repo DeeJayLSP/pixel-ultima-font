@@ -13,8 +13,8 @@ Bold.
 Versioning is done as [year].[revision_number]. First versions
 in the year don't get a revision number.
 
-There are no source files. Modifications are and should be 
-made directly to .ttf files.
+Source files are present in the sources folder. Birdfont is
+needed to open properly.
 
 Contributions will be not accepted until the author can find
 a font diff program, or is presented one.

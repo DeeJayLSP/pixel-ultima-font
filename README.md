@@ -5,6 +5,6 @@ Pixel Ultima is a pixel font made after its author searched for a big font that 
 
 It includes most Latin-1 characters plus Esperanto.
 
-Contributions are currently not accepted since the author doesn't have a way to verify font diffs, but you can make your own modification of it through font editors.
+Contributions are currently not accepted since the author doesn't have a way to verify font diffs, but you can make your own modification of it through font editors. Sources are included as Birdfont files.
 
 Changelog and contributors info can be found at the FONTLOG file. If you do modify the font, please state it there. 
