@@ -10,7 +10,7 @@
 <italic>false</italic>
 <full_name>Pixel Ultima Bold </full_name>
 <unique_identifier>PixelUltima-Bold:Birdfont:2021</unique_identifier>
-<version>1.0</version>
+<version>2021</version>
 <description>Pixel Ultima is a pixel font made after its author searched for a big font that included many characters and ended up not finding one. Esperanto characters included. This is the bold style.</description>
 <copyright>Copyright (c) 2021, Douglas Leão, (DeeJayLSP, a.k.a. Didiei)</copyright>
 <license>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</license>
@@ -33,6 +33,21 @@
 </horizontal>
 
 <grid width="6.2500"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <background scale="1" />
@@ -184,8 +199,8 @@
 	<selected id="0"/>
 	<glyph id="0" left="-20" right="36.25">
 		<layer name= "Layer" visible="true">
-			<path data="S -7.5000000000,6.2500000000 M 17.5000000000,6.2500000000 M 17.5000000000,75.0000000000 M -7.5000000000,75.0000000000 M -7.5000000000,6.2500000000" />
-			<path data="S -20.0000000000,81.2500000000 M 30.0000000000,81.2500000000 M 30.0000000000,0.0000000000 M -20.0000000000,0.0000000000 M -20.0000000000,81.2500000000" />
+			<path data="S -7.5000000000,6.2500000000 L 17.5000000000,6.2500000000 M 17.5000000000,75.0000000000 M -7.5000000000,75.0000000000 M -7.5000000000,6.2500000000" />
+			<path data="S -20.0000000000,81.2500000000 L 30.0000000000,81.2500000000 M 30.0000000000,0.0000000000 M -20.0000000000,0.0000000000 M -20.0000000000,81.2500000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -2344,25 +2359,25 @@
 
 
 <kerning left="Ï" right="b" hadjustment="-12.5000000000" />
-<kerning left="r" right="c" hadjustment="-6.2500000000" />
 <kerning left="ř" right="h" hadjustment="-6.2500000000" />
 <kerning left="ř" right="ř" hadjustment="-6.2500000000" />
+<kerning left="r" right="c" hadjustment="-6.2500000000" />
 <kerning left="t" right="j" hadjustment="-6.2500000000" />
+<kerning left="ř" right="i" hadjustment="-6.2500000000" />
 <kerning left="r" right="d" hadjustment="-6.2500000000" />
 <kerning left="Ï" right="c" hadjustment="-12.5000000000" />
-<kerning left="ř" right="i" hadjustment="-6.2500000000" />
+<kerning left="ř" right="j" hadjustment="-6.2500000000" />
 <kerning left="r" right="e" hadjustment="-6.2500000000" />
 <kerning left="Ï" right="d" hadjustment="-12.5000000000" />
-<kerning left="ř" right="j" hadjustment="-6.2500000000" />
+<kerning left="ř" right="k" hadjustment="-6.2500000000" />
 <kerning left="r" right="f" hadjustment="-6.2500000000" />
 <kerning left="Ï" right="e" hadjustment="-12.5000000000" />
-<kerning left="ř" right="k" hadjustment="-6.2500000000" />
+<kerning left="ř" right="l" hadjustment="-6.2500000000" />
 <kerning left="r" right="g" hadjustment="-6.2500000000" />
 <kerning left="Ï" right="f" hadjustment="-12.5000000000" />
-<kerning left="ř" right="l" hadjustment="-6.2500000000" />
+<kerning left="ř" right="m" hadjustment="-6.2500000000" />
 <kerning left="r" right="h" hadjustment="-6.2500000000" />
 <kerning left="Ï" right="g" hadjustment="-12.5000000000" />
-<kerning left="ř" right="m" hadjustment="-6.2500000000" />
 <kerning left="r" right="i" hadjustment="-6.2500000000" />
 <kerning left="Ï" right="h" hadjustment="-12.5000000000" />
 <kerning left="ř" right="n" hadjustment="-6.2500000000" />
@@ -2370,11 +2385,11 @@
 <kerning left="Ï" right="i" hadjustment="-12.5000000000" />
 <kerning left="ř" right="o" hadjustment="-6.2500000000" />
 <kerning left="r" right="k" hadjustment="-6.2500000000" />
-<kerning left="Ï" right="j" hadjustment="-12.5000000000" />
 <kerning left="ĵ" right="a" hadjustment="-12.5000000000" />
+<kerning left="Ï" right="j" hadjustment="-12.5000000000" />
 <kerning left="ř" right="p" hadjustment="-6.2500000000" />
-<kerning left="r" right="l" hadjustment="-6.2500000000" />
 <kerning left="ř" right="q" hadjustment="-6.2500000000" />
+<kerning left="r" right="l" hadjustment="-6.2500000000" />
 <kerning left="r" right="m" hadjustment="-6.2500000000" />
 <kerning left="ř" right="r" hadjustment="-6.2500000000" />
 <kerning left="r" right="n" hadjustment="-6.2500000000" />

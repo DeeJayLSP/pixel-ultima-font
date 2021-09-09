@@ -10,18 +10,16 @@ Pixel Ultima is a 16pt pixelated font that includes most Latin-1
 and Esperanto characters. It comes in 2 styles: Regular and
 Bold.
 
-Versioning is done as [year].[revision_number]. First versions
-in the year don't get a revision number.
+Versioning is done as [year].[revision_number].[minor_adjust_index].
+First versions of an year don't get a revision number.
 
 Source files are present in the sources folder. Birdfont is
-needed to open properly.
-
-Contributions will be not accepted until the author can find
-a font diff program, or is presented one.
+needed to open properly. Contributions should be made directly
+on source files.
 
 ChangeLog
 
-8 September 2021 (Douglas Leão) version 2021
+8 September 2021 (Douglas Leão) version 2021.0
 - Initial release
 
 Acknowledgements
