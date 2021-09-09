@@ -1,7 +1,7 @@
 ![Pixel Ultima Logo](https://github.com/DeeJayLSP/pixel-ultima-font/raw/main/logo/logo-preview.png)
 -----------------------------------------------------------
 
-Pixel Ultima is a pixel font made after its author searched for a big font that included many characters and ended not finding one.
+Pixel Ultima is a pixel font made after its author searched for a big font that included many characters and ended up not finding one.
 
 It includes most Latin-1 characters plus Esperanto.
 
