@@ -3,10 +3,11 @@
 
 Pixel Ultima is a pixel font made after its author searched for a big font that included many characters and ended up not finding one.
 
-It includes most Latin-1 characters plus Esperanto.
+It includes most Latin-1 characters, common Cyrillic and Esperanto.
 
 ![Preview 1](https://github.com/DeeJayLSP/pixel-ultima-font/raw/main/img/preview1.png)
 ![Preview 2](https://github.com/DeeJayLSP/pixel-ultima-font/raw/main/img/preview2.png)
+![Preview 3](https://github.com/DeeJayLSP/pixel-ultima-font/raw/main/img/preview3.png)
 ___
 ### Contributions
 

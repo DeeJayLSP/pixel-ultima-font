@@ -19,8 +19,16 @@ on source files.
 
 ChangeLog
 
-8 September 2021 (Douglas Leão) version 2021.0
+Only major updates are logged:
+
+11 September 2021 (Douglas Leão) version 2021.2
+- Added common Cyrillic characters
+
+9 September 2021 (Douglas Leão) version 2021.1
 - Initial release
+
+8 September 2021 (Douglas Leão) version 2021.0
+- Initial pre-release
 
 Acknowledgements
 
