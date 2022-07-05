@@ -2,24 +2,28 @@ FONTLOG for the Pixel Ultima font
 
 This file provides detailed information on the Pixel Ultima
 font Software. This information should be distributed along
-with the Pixel Ultima fonts and any derivative works.
+with the Pixel Ultima font sources and any derivative works.
 
 Basic Font Information
 
-Pixel Ultima is a 16pt pixelated font that includes most Latin-1
-and Esperanto characters. It comes in 2 styles: Regular and
-Bold.
+Pixel Ultima is a 16pt pixelated font that includes most Latin-1,
+Esperanto, and Cyrillic (Russian and Ukrainian) characters.
+It comes in 2 styles: Regular and Bold.
 
 Versioning is done as [year].[revision_number].[minor_adjust_index].
-First versions of an year don't get a revision number.
+First versions of an year get revision number 0.
 
-Source files are present in the sources folder. Birdfont is
+Source files are present in the sources folder. Fontforge is
 needed to open properly. Contributions should be made directly
 on source files.
 
-ChangeLog
+Changelog
 
-Only major updates are logged:
+Only major updates are logged. No bug fixes:
+
+5 July 2022 (Douglas Leão) version 2022.0
+- Added more Cyrillic characters, now enabling the font use 
+  with Ukrainian
 
 11 September 2021 (Douglas Leão) version 2021.2
 - Added common Cyrillic characters
@@ -33,7 +37,7 @@ Only major updates are logged:
 Acknowledgements
 
 If you make modifications be sure to add your name (N), email
-(E), web-address (if you have one) (W) and description (D). 
+(E), web-address (if you have one) (W) and description (D).
 This list is in alphabetical order.
 
 N: Douglas Leão
