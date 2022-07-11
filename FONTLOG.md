@@ -21,6 +21,10 @@ Changelog
 
 Only major updates are logged. No bug fixes:
 
+10 July 2022 (Douglas Leão) version 2022.1
+- Many rounded glyphs have been reworked to improve readability;
+- Glyphs have been optimized by simplifying and removing overlaps.
+
 5 July 2022 (Douglas Leão) version 2022.0
 - Added more Cyrillic characters, now enabling the font use 
   with Ukrainian
